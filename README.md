@@ -40,3 +40,24 @@ The project will combine:
 • Modular architecture for future AI integration
 
 ## Repository Structure (Initial)
+mindspring
+│
+├── README.md
+├── docs
+├── app
+├── prompts
+└── research
+
+## Project Status
+
+Early development phase.
+
+Initial architecture and learning models are currently being designed.
+
+---
+
+Future versions will introduce:
+- AI adaptive learning engine
+- Interactive child learning interface
+- Progress analytics
+- Parent dashboards
